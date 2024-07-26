@@ -1,4 +1,13 @@
 {
-  "name": "MdelAITemplate",
-  "packageManager": "yarn@4.2.2"
+  "name": "mdelaitemplate",
+  "packageManager": "yarn@4.2.2",
+  "version": "1.0.0",
+  "description": "Template AI",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ANTHONY CORDOVA",
+  "license": "ISC"
 }
